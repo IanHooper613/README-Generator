@@ -17,23 +17,23 @@
  
     ## Installation Directions 
 
-    This application is installed with the help of npm install.  
+    This application is installed with the help of npm install.   
 
     ## Usage 
 
-    This application is used........... ........ ....... ........ .......... ...... .......   
+    This application is used........... ........ ....... ........ .......... ...... .......    
 
     ## License 
 
-    The application does not have a license yet.  We are waiting on funding. 
+    The application does not have a license yet.  We are waiting on funding.  
  
     ## Contributing 
 
-    For the time being, I am the only contributor to the project.  
+    For the time being, I am the only contributor to the project. 
 
     ## Tests 
 
-    There were many trial and error tests leading up to the presentation of the application.  
+    There were many trial and error tests leading up to the presentation of the application.   
 
     ## Questions 
 
