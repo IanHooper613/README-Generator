@@ -5,7 +5,7 @@
 
     ## Project Description 
 
-    This applicatiopn builds a README file from user input. 
+    This applicatiopn builds a README file from user input.  
 
     ## Table of Contents
     * Installation 
@@ -21,7 +21,7 @@
 
     ## Usage 
 
-    This application is used........... ........ ....... ........ .......... ...... ....... 
+    This application is used........... ........ ....... ........ .......... ...... .......  
 
     ## License 
 
@@ -37,7 +37,7 @@
 
     ## Questions 
 
-    <img src='https://avatars0.githubusercontent.com/u/60622571?s=460&u=2c2b78851f8e86de45016b42dbe8709a500e7a8b&v=4' width='100'> 
+    <img src="https://avatars3.githubusercontent.com/u/60622571?v=4" width="100"> 
 
     <p>If you have any questions please contact me at my GitHub page: ianhooper613.</p>
     
