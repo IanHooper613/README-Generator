@@ -1,7 +1,7 @@
 
   # README Generator
 
-  This applicatiopn builds a README file from user input. 
+  This applicatiopn builds a README file from user input.
   ## Table of Contents
   * [Installation] (#installation)
   * [Usage] (#usage)
@@ -11,13 +11,13 @@
   * [Questions] (#questions)
   
   ## Installation
-  This application is installed with the help of npm install. 
+  This application is installed with the help of npm install.
   ## Usage
-  This application is used........... ........ ....... ........ .......... ...... ....... 
+  This application is used........... ........ ....... ........ .......... ...... .......
   ## Contributing
-  For the time being, I am the only contributor to the project. 
+  For the time being, I am the only contributor to the project.
   ## Tests
-  There were many trial and error tests leading up to the presentation of the application. 
+  There were many trial and error tests leading up to the presentation of the application.
   ## Questions
   If there are any questions, feel free to reach out to me at https://github.com/ianhooper613 
 
