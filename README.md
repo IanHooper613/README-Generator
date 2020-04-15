@@ -1,7 +1,7 @@
 
-  # hello
+  # README Generator
 
-  goodbye
+  This applicatiopn builds a README file from user input. 
   ## Table of Contents
   * [Installation] (#installation)
   * [Usage] (#usage)
@@ -11,13 +11,13 @@
   * [Questions] (#questions)
   
   ## Installation
-  yes
+  This application is installed with the help of npm install. 
   ## Usage
-  none
+  This application is used........... ........ ....... ........ .......... ...... ....... 
   ## Contributing
-  me and me
+  For the time being, I am the only contributor to the project. 
   ## Tests
-  plenty
+  There were many trial and error tests leading up to the presentation of the application. 
   ## Questions
   If there are any questions, feel free to reach out to me at https://github.com/ianhooper613 
 
